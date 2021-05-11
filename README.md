@@ -10,4 +10,4 @@
 
 
 ### 3 API 手册
-可在 [API 手册](https://github.com/polyv/polyv-prtc-winsdk-demo/tree/master/docs)中查看SDK API说明
+可在 [API 手册](https://github.com/polyv/polyv-prtc-winsdk-demo/tree/master/doc)中查看SDK API说明
